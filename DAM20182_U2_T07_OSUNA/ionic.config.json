@@ -1,0 +1,7 @@
+{
+  "name": "DAM20182_OSUNA",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
